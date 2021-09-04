@@ -27,6 +27,7 @@
 </div>
 
 <!--
+![Snake animation](https://github.com/eurobsonrosa/eurobsonrosa/blob/output/github-contribution-grid-snake.svg)
 **eurobsonrosa/eurobsonrosa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
